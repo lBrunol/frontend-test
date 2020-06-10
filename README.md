@@ -6,4 +6,5 @@
 4. A utilização de frameworks de CSS é livre
 5. Não é necessário que o formulário funcione, o foco é o apenas o visual
 6. Não existe problema caso o teste não seja integralmente finalizado, o foco é a análise do código e as práticas utilizadas para construção do layout
-7. Boa sorte!
+7. Para realizar o teste, faça um fork desse projeto e ao finalizar, crie um pull request
+8. Boa sorte!
